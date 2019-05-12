@@ -1,0 +1,2 @@
+# hector
+auto
